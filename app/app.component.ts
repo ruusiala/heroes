@@ -3,6 +3,7 @@ import { Hero } from './hero';
 import { HeroListComponent } from './hero-list.component';
 
 @Component({
+    moduleId: module.id,
     selector: 'my-app',
     template: `
     <h1> {{mainTitle }}</h1>
@@ -11,12 +12,11 @@ import { HeroListComponent } from './hero-list.component';
       <a routerLink= "/heroes" > Heroes </a>
     </nav>    
     <router-outlet > </router-outlet>
-    `    
+    `,
+    styleUrls: ['app.component.css']
 })
 export class AppComponent {
     mainTitle='HERO APP' 
-    title = 'Tour of Best Heroes';
-
 }
 
 

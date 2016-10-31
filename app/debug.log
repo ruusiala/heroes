@@ -1,0 +1,14 @@
+[1030/185935:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[1030/185935:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6c860000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1030/185935:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\54.0.2840.71\chrome.dll
+[1030/185935:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6c860000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1030/185935:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\54.0.2840.71\chrome.dll
+[1030/185935:ERROR:process_info.cc(608)] range at 0xfffdd000, size 0xf84 fully unreadable
+[1030/185935:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6c860000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1030/185935:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\54.0.2840.71\chrome.dll
+[1030/185935:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6c860000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1030/185935:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\54.0.2840.71\chrome.dll
+[1030/185935:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6c860000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1030/185935:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\54.0.2840.71\chrome.dll
+[1030/185935:ERROR:process_reader_win.cc(233)] ReadMemory at 0x6c860000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1030/185935:WARNING:pe_image_reader.cc(281)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\54.0.2840.71\chrome.dll
