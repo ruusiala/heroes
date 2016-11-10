@@ -13,7 +13,7 @@ import { HeroListComponent } from './hero-list.component';
     </nav>    
     <router-outlet > </router-outlet>
     `,
-    styleUrls: ['app.component.css']
+                                                                                                                                                                styleUrls: ['app.component.css']
 })
 export class AppComponent {
     mainTitle='HERO APP' 
