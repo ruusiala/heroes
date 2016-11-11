@@ -1,3 +1,8 @@
+<a name="0.2.14"></a>
+# 0.2.13 (2016-10-20)
+* Map version
+* Angular v2.1.1
+
 <a name="0.2.13"></a>
 # 0.2.13 (2016-10-20)
 * Protractor 4
