@@ -16,6 +16,8 @@ import { HeroListComponent } from './hero-list.component';
 import { DashboardComponent } from './dashboard.component';
 import { HeroService } from './hero.service';
 import {HeroSearchComponent} from './hero-search.component';
+import { MapComponent } from './map.component';
+import { MapViewComponent } from './map-view.component';
 
 @NgModule({
   imports: [
@@ -30,7 +32,9 @@ import {HeroSearchComponent} from './hero-search.component';
     HeroDetailComponent,
     HeroListComponent,
     DashboardComponent,
-    HeroSearchComponent
+    HeroSearchComponent, 
+    MapComponent,
+    MapViewComponent
   ],
   providers: [
   HeroService

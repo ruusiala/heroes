@@ -10,13 +10,15 @@ import { HeroListComponent } from './hero-list.component';
     <nav>
       <a routerLink= "/dashboard" > Dashboard </a>    
       <a routerLink= "/heroes" > Heroes </a>
+      <a routerLink= "/map" > Map view </a>
     </nav>    
     <router-outlet > </router-outlet>
     `,
-                                                                                                                                                                styleUrls: ['app.component.css']
+    styleUrls: ['app.component.css']
 })
 export class AppComponent {
-    mainTitle='HERO APP' 
+    mainTitle = 'Hero Application'
+    
 }
 
 

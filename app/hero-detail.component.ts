@@ -5,6 +5,7 @@ import { Location } from '@angular/common';
 
 import { HeroService } from './hero.service';
 import { Hero } from './hero';
+import { MapComponent } from './map.component';
 
 
 

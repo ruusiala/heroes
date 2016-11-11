@@ -4,6 +4,7 @@ import { Hero } from './hero';
 import { HeroDetailComponent } from './hero-detail.component';
 import { HeroService } from './hero.service';
 
+
 @Component({
   moduleId: module.id,
   selector: 'my-hero-list',
